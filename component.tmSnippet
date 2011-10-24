@@ -2,9 +2,9 @@
 <plist version="1.0">
    <dict>
       <key>content</key>
-	  <string>component ${1:${2:extends="$3" }${4:hint="$5"}}{
+	  <string>component ${1:${2:extends="$3" }${4:hint="$5"}}\{
 	$0
-}</string>
+\}</string>
       <key>name</key>
       <string>scriptComponent</string>
       <key>scope</key>

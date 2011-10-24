@@ -2,12 +2,12 @@
 <plist version="1.0">
    <dict>
       <key>content</key>
-	  <string>try{
+	  <string>try\{
 	$0
-}
-catch(${3:${4:Any} ${5:ex}}){
+\}
+catch(${3:${4:Any} ${5:ex}})\{
 	$6
-}${1:
+\}${1:
 finally\{
 	$2
 \}
