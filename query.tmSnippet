@@ -6,13 +6,13 @@
 
 $1.setDatasource(${2:variables.datasource});
 
-${3:${4:var }${5:postSQL} = "INSERT INTO rpa.Post(regionId,postKey,postName,countryKey,countryName) VALUES(:regionId ,:postKey ,:postName ,:countryKey, :countryName ); SELECT SCOPE_IDENTITY() as postId;";}
+${3:${4:var }${5:postSQL} = "";}
 
 $1.setName("$6");
 
 $1.setSql($5);</string>
       <key>name</key>
-      <string>scriptFunction</string>
+      <string>scriptQuery</string>
       <key>scope</key>
       <string>text.html.cfm</string>
       <key>tabTrigger</key>
