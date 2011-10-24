@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+	  <string>var ${1:queryObj} = new query();
+
+$1.setDatasource(${2:variables.datasource});
+
+${3:${4:var }${5:postSQL} = "INSERT INTO rpa.Post(regionId,postKey,postName,countryKey,countryName) VALUES(:regionId ,:postKey ,:postName ,:countryKey, :countryName ); SELECT SCOPE_IDENTITY() as postId;";}
+
+$1.setName("$6");
+
+$1.setSql($5);</string>
+      <key>name</key>
+      <string>scriptFunction</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>q_</string>
+      <key>uuid</key>
+      <string>34ijli3-34de-4f5a-b07b-e3342llkji</string>
+   </dict>
+</plist>
