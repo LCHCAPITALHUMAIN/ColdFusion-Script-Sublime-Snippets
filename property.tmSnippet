@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+   <dict>
+      <key>content</key>
+	  <string>${1:/**
+*${2:@getters ${3:true}}
+*${4:@setters ${5:true}}
+*/
+}property ${6:String} $0;</string>
+      <key>name</key>
+      <string>property</string>
+      <key>scope</key>
+      <string>text.html.cfm</string>
+      <key>tabTrigger</key>
+      <string>p_</string>
+      <key>uuid</key>
+      <string>34lihoi-34de-4f5a-b07b-e34lijslk</string>
+   </dict>
+</plist>
