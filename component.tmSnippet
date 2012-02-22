@@ -8,7 +8,7 @@
       <key>name</key>
       <string>scriptComponent</string>
       <key>scope</key>
-      <string>text.html.cfm</string>
+      <string>source.cfscript</string>
       <key>tabTrigger</key>
       <string>c_</string>
       <key>uuid</key>

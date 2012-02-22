@@ -15,9 +15,9 @@ finally\{
       <key>name</key>
       <string>scriptTryCatch</string>
       <key>scope</key>
-      <string>text.html.cfm</string>
+      <string>source.cfscript</string>
       <key>tabTrigger</key>
-      <string>t_</string>
+      <string>try_</string>
       <key>uuid</key>
       <string>34lihoi-34de-4f5a-b07b-e3342llkji</string>
    </dict>

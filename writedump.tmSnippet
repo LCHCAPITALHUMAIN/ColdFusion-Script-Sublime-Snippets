@@ -2,11 +2,11 @@
 <plist version="1.0">
    <dict>
       <key>content</key>
-	  <string>writedump(var=${1:},output="${2:console}");</string>
+	<string>writedump(var=${1:},output="${2:console}");</string>
       <key>name</key>
       <string>scriptTryCatch</string>
       <key>scope</key>
-      <string>text.html.cfm</string>
+      <string>source.cfscript</string>
       <key>tabTrigger</key>
       <string>d_</string>
       <key>uuid</key>

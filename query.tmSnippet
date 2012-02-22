@@ -14,7 +14,7 @@ $1.setSql($5);</string>
       <key>name</key>
       <string>scriptQuery</string>
       <key>scope</key>
-      <string>text.html.cfm</string>
+      <string>source.cfscript</string>
       <key>tabTrigger</key>
       <string>q_</string>
       <key>uuid</key>

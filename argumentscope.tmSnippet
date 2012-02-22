@@ -2,19 +2,14 @@
 <plist version="1.0">
    <dict>
       <key>content</key>
-	  <string>${1:/**
-* ${2:@getters ${3:true}}
-* ${4:@setters ${5:true}}
-* ${6:@type ${7:String}}
-*/}
-property $0;</string>
+      <string>arguments.$0</string>
       <key>name</key>
-      <string>property</string>
+      <string>scriptTryCatch</string>
       <key>scope</key>
       <string>source.cfscript</string>
       <key>tabTrigger</key>
-      <string>p_</string>
+      <string>arg_</string>
       <key>uuid</key>
-      <string>34lihoi-34de-4f5a-b07b-e34lijslk</string>
+      <string>34lihoi-34de-4f5a-b07b-e3342llkji</string>
    </dict>
 </plist>
